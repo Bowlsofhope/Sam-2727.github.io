@@ -1,9 +1,10 @@
 # basic options
-title: Your awesome title
+title: Sam Christian's Blog
 author: Sam Christian 
 email: SamChristian.2727@gmail.com
-description: A wonderful site
+description: For anybody interested in reading (about) what I do
 github_username:  Sam-2727
+wikipedia_username: Sam-2727
 
 # Build settings
 markdown: kramdown
