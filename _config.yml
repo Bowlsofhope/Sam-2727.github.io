@@ -5,7 +5,7 @@ email: SamChristian.2727@gmail.com
 description: For anybody interested in reading (about) what I do
 github_username:  Sam-2727
 wikipedia_username: Sam-2727
-
+paginate_path: /Blog
 # Build settings
 markdown: kramdown
 theme: minima
