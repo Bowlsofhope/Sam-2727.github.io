@@ -9,3 +9,4 @@ wikipedia_username: Sam-2727
 # Build settings
 markdown: kramdown
 theme: minima
+future: true
