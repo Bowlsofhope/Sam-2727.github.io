@@ -1,3 +1,6 @@
+---
+layout: post
+---
 ok so I last wrote 8 days ago and I said I would write soon but whatever. Anyway, looking back I wanted to write about distraction so I guess I'll pick up there. It's funny (vague statement, I know), that I get focused on things so much only to give up on them at the last minute. Right now I am at the crossroads of that. I have a program on my computer that is the fruits of over 600 hours of time. But using the data generated from that, I just can't seem to extract anything, not because the data is bad but because I keep getting bugs in the python libraries I am using!
 It sounds like a trivial problem-- surely just work around it, but my confidence is petering out. I almost need to find something new and fresh to work on, the irony being that by doing that, I will have left and gotten distracted from what I was supposed to be doing in the first place. (I really wanted to use an exclamation mark there). So I must somehow muster up the effort to just find something from the program. Some little tidbit, detail that I can throw up on a poster and say "science."
 
